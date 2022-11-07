@@ -8,8 +8,8 @@
         "TECHNO MINDZ"
     ],
     "website": "https://t.me/Technomindzchat",
-    "repository": "https://github.com/TechnoMindz/FilterBot",
-    "success_url": "https://telegram.dog/TECHNOMINDZCHAT",
+    "repository": "https://github.com/jyotirmoydeka/FilterBot",
+    "success_url": "https://telegram.dog/masterr07",
     "env": {
         "WEBHOOK": {
             "description": "No need to change this field!",
