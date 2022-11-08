@@ -1,4 +1,4 @@
-<h2 align="centre"><i><b>🎀TECHNO MINDZ🎀</i></b></h2>
+<h2 align="centre"><i><b>🎀CopY🎀</i></b></h2>
 
 # ViewFilters Won't Work
 
