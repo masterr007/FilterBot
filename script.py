@@ -2,18 +2,15 @@ class Script(object):
 
     START_MSG = """<b>Hi ♥️ {},
 
-I'm an advanced filter bot with unlimited filters!
-
-<a href="https://t.me/masterr07">1☞CONTACT</a>
-
-MADE BY @masterr07
+I'm an advanced filter bot with many capabilities!
+There is no practical limits for my filtering capacity 😁!
 
 See <i>/help</i> for commands and more details.</b>
 """
 
 
     HELP_MSG = """
-<i>Add me as admin in your group and start filtering :)\nFor More Details CONTACT HERE @masterr07</i>
+<i>Add me as admin in your group and start filtering :)\n👍</i>
 
 
 <b>Basic Commands;</b>
@@ -55,7 +52,7 @@ See <i>/help</i> for commands and more details.</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>Bot By :unlimited Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>Bot By :𝔖𝔲𝔓𝔢𝔯𝔐𝔞𝔑 ʙᴏᴛ</b>
 
 ⭕️<b>Creater :</b> @masterr07   
 
