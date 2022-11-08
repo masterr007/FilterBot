@@ -2,7 +2,7 @@ class Script(object):
 
     START_MSG = """<b>Hi 👋 {},
 
-I'm an advanced filter bot with many capabilities!
+I'm an advanced filter bot with unlimited filters!
 
 <a href="https://t.me/masterr07">1☞CONTACT</a>
 
@@ -51,11 +51,11 @@ See <i>/help</i> for commands and more details.</b>
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
 
-<b>© @</b>
+<b>© Unknown</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : mirzapur Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>Bot By :unlimited Filter Bot</b>
 
 ⭕️<b>Creater :</b> @masterr07   
 
