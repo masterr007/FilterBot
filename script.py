@@ -4,13 +4,7 @@ class Script(object):
 
 I'm an advanced filter bot with many capabilities!
 
-<a href="https://t.me/mdisk_linx">1☞OFFICIAL CHANNEL</a>
-
-<a href="https://t.me/masterr07">2☞ OWNER</a>
-
-<a href="https://t.me/moviesrequest03">3☞ JOIN MOVIE REQUEST GROUP</a>
-
-<a href="https://t.me/mdiskxlinks">4☞ all type Series movies Channel</a>
+<a href="https://t.me/masterr07">1☞CONTACT</a>
 
 MADE BY @masterr07
 
