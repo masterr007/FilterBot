@@ -243,12 +243,12 @@ async def help(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Developer", url="https://t.me/Technokillerbot"),
+                    InlineKeyboardButton("Developer", url="https://t.me/Masterr07"),
                     InlineKeyboardButton("About Me", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("BOT Channel", url="https://t.me/Tmmainchannel"),
-                    InlineKeyboardButton("Support Group", url="https://t.me/Technomindzchat")
+                    InlineKeyboardButton("BOT Channel", url="https://t.me/mdisk_linx"),
+                    InlineKeyboardButton("Support Group", url="https://t.me/moviesrequest03")
                 ]
             ]
         ),
@@ -265,7 +265,7 @@ async def about(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://t.me/Technomindzchat")
+                        "SOURCE CODE", url="https://t.me/Masterr07")
                 ],
                 [
                     InlineKeyboardButton("BACK", callback_data="help_data"),
