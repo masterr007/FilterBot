@@ -71,7 +71,7 @@
 <br>
 <a href="https://heroku.com/deploy?template=https://github.com/jyotirmoydeka/FilterBot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-<a href="https://railway.app?referralCode=jyotirmoydeka/FilterBot">
+<a href="https://railway.app?referralCode=jyotirmoydeka">
   <img src="https://railway.app/button.svg" alt="Deploy">
 </a>
 </p>
