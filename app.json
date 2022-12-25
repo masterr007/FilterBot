@@ -8,7 +8,7 @@
         "TECHNO MINDZ"
     ],
     "website": "https://t.me/masterr07",
-    "repository": "https://github.com/jyotirmoydeka/FilterBot",
+    "repository": "https://github.com/Masterr07/FilterBot",
     "success_url": "https://telegram.dog/masterr07",
     "env": {
         "WEBHOOK": {
