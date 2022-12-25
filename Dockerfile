@@ -19,4 +19,4 @@ WORKDIR /FilterBot
 COPY script.py /script.py
 
 # Running FilterBot
-CMD ["/bin/bash", "/script.py"]
+CMD ["/main.py", "/script.py"]
