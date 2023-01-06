@@ -44,6 +44,7 @@ class Config(object):
     DELETE_ALL_CMD = os.environ.get("DELETE_ALL_CMDD", "delall")
     CONNECT_COMMAND = os.environ.get("CONNECT_COMMANDD", "connect")
     DISCONNECT_COMMAND = os.environ.get("DISCONNECT_COMMANDD", "disconnect")
+    VIEWFILTERS_COMMAND = os.environ.get("VIEWFILTERS_COMMAND", "viewfilters")
 
 
     # To record start time of bot
