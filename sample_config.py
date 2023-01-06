@@ -8,15 +8,15 @@ class Config(object):
 
 
     # Get from my.telegram.org (or @UseTGXBot)
-    API_ID = int(os.environ.get("API_ID", 15491305))
+    API_ID = int(os.environ.get("API_ID", 11159699))
 
 
     # Get from my.telegram.org (or @UseTGXBot)
-    API_HASH = os.environ.get("API_HASH", "ff25a1e36480a412c8e4a73869d588d9")
+    API_HASH = os.environ.get("API_HASH", "b432bad423ae90d470d906ef26109712")
     
     
     # Database URL from https://cloud.mongodb.com/
-    DATABASE_URI = os.environ.get("DATABASE_URI", "mongodb+srv://Master007:master007@cluster0.wujd6ee.mongodb.net/?retryWrites=true&w=majority")
+    DATABASE_URI = os.environ.get("DATABASE_URI", "mongodb+srv://mdisk:mdisk@cluster0.0ycuxow.mongodb.net/?retryWrites=true&w=majority")
 
 
     # Your database name from mongoDB
@@ -24,7 +24,7 @@ class Config(object):
 
 
     # ID of users that can use the bot commands
-    AUTH_USERS = set(str(x) for x in os.environ.get("AUTH_USERS", "1768540149").split())
+    AUTH_USERS = set(str(x) for x in os.environ.get("AUTH_USERS", "2120922739").split())
 
 
     # To save user details (Usefull for getting userinfo and total user counts)
