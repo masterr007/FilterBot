@@ -1,22 +1,12 @@
-# Python Based Docker
-FROM python:latest
+FROM python:3.10-slim-buster
 
-# Installing Packages
 RUN apt update && apt upgrade -y
-RUN apt install git curl python3-pip ffmpeg -y
-
-# Updating Pip Packages
-RUN pip3 install -U pip
-
-# Copying Requirements
+RUN apt install git -y
 COPY requirements.txt /requirements.txt
 
-# Installing Requirements
 RUN cd /
-RUN pip3 install -U -r requirements.txt
-RUN mkdir /FilterBot
-WORKDIR /FilterBot
-COPY script.py /script.py
-
-# Running FilterBot
-CMD ["/main.py", "/script.py"]
+RUN pip3 install -U pip && pip3 install -U -r requirements.txt
+RUN mkdir /Channel-Mdisk-Converter
+WORKDIR /Channel-Mdisk-Converter 
+COPY start.sh /start.sh
+CMD ["/bin/bash", "/start.sh"]
