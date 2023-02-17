@@ -1,6 +1,6 @@
 class Script(object):
 
-    START_MSG = """<b>Hi ♥️ {},
+    START_MSG = """<b>Hi 🙏 {},
 
 I'm an advanced filter bot with many capabilities!
 There is no practical limits for my filtering capacity 😁!
@@ -52,9 +52,9 @@ See <i>/help</i> for commands and more details.</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>Bot By :PIKACHU</b>
+    ABOUT_MSG = """⭕️<b>Bot By :UltdBot</b>
 
-⭕️<b>Creater :</b> @masterr07   
+⭕️<b>Creater :</b> @Rkrisnan   
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
